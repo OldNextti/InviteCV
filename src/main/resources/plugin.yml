@@ -1,0 +1,12 @@
+name: InviteCV
+version: '${project.version}'
+main: com.walberthlopes.invitecv.Main
+api-version: 1.18
+authors: [ Duzzy ]
+description: Let your players invite their friend and get rewards
+website: https://wiki.cataclysm.com.br/
+commands:
+  invite:
+    description: Send an invite to a target player
+  acceptinvite:
+    description: Accepts the invite sent to you
